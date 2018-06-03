@@ -1,0 +1,6 @@
+.car {
+    max-width: 500px;
+}
+.car--rotate {
+  transform: rotate(30deg);
+}
